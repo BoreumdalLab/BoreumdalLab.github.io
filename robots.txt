@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+User-agent: Google-adstxt
+User-agent: AdsBot-Google
+Allow: /app-ads.txt
